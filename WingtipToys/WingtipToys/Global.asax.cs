@@ -7,6 +7,9 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
+using System.Data.Entity;
+using WingtipToys.Models;
+
 namespace WingtipToys
 {
     public class Global : HttpApplication
